@@ -42,7 +42,7 @@ In general, a relay allows for low-voltage control of high-voltage circuits. Its
 ### Wiring Diagram
 ![image](https://github.com/IanPascoe/Relay/assets/95391563/ee5288a1-8acb-4749-9495-9d376c996c36)
 ### Demo
-[Demo Link](https://youtu.be/6tHD5hG_p8E) (Arduino Uno was used for 5v powersupply)
+[Demo Link](https://youtube.com/shorts/n3gOkS61pyU?feature=share) (Arduino Uno was used for 5v powersupply)
 
 
 
