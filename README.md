@@ -22,8 +22,28 @@ The switching element of a relay is magnetically controlled by a coil resting be
 In general, a relay allows for low-voltage control of high-voltage circuits. Its advantage over other electronic switching elements, for example transistors, is safety. Since a relay physically opens the circuit, there is extreamly high-level of electronic isolation. Because of this, relays are often used as the primary on-off control for high-voltage systems.
 ## Relay Control Via Arduino Uno
 ### Components
-* Required
 * Arduino Uno
 * Relay
+* LED x2
+* 220Ω Resistor x2
+### Wiring Diagram
+![image](https://github.com/IanPascoe/Relay/assets/95391563/e66b736b-0a96-4872-be4b-2fff33a91fea)
+
+### Demo
+Demo Link
+## Relay Control Via Push Button
+### Components
+* 9v Battery
+* Relay
+* LED x2
+* 220Ω Resistor x2
+* pushbutton
+* 5v Linear Regulator
+### Wiring Diagram
+![image](https://github.com/IanPascoe/Relay/assets/95391563/ee5288a1-8acb-4749-9495-9d376c996c36)
+### Demo
+Demo Link (Arduino Uno was used for 5v powersupply)
+
+
 
 
