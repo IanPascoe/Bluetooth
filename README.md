@@ -15,7 +15,7 @@ A single pole double throw relay is an electronicly controlled switch which togg
 * Dimensions (mm): 34x26x19
 * Price per unit: $5.00
 ### How a Relay Works
-![image](https://github.com/IanPascoe/Relay/assets/95391563/1fa9c6c3-254b-400f-ad43-ee4604ea121e)
+![image](https://github.com/IanPascoe/Relay/assets/95391563/1fa9c6c3-254b-400f-ad43-ee4604ea121e).
 
 The switching element of a relay is magnetically controlled by a coil resting below the Armeture. When current is fed into the coil it induces a magnetic field which pulls the Armeture to the normally closed contact patch.
 ### Typical Applications
