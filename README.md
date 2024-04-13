@@ -44,6 +44,13 @@ In general, a relay allows for low-voltage control of high-voltage circuits. Its
 ### Demo
 [Demo Link](https://youtube.com/shorts/n3gOkS61pyU?feature=share) (Arduino Uno was used for 5v powersupply)
 
-
+# Compilation Process
+1. Navigate to the Source Code Directory
+  * Change directory in command prompt to location of source code 
+2. Determine COM Port
+  *  determine what COM port the Arduino is connected to.
+3. Run Compile Script
+  * Open the file compile_script.py using the notepad and change the variable **path_win_avr** to the bin folder inside your avr_gcc toolchain. Make sure to save!
+  * In the command prompt, type: python compile_script.py # of your COM port (for me this was 4)
 
 
