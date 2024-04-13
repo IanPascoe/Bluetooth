@@ -30,7 +30,7 @@ In general, a relay allows for low-voltage control of high-voltage circuits. Its
 ![image](https://github.com/IanPascoe/Relay/assets/95391563/e66b736b-0a96-4872-be4b-2fff33a91fea)
 
 ### Demo
-Demo Link
+[Demo Link]([url](https://youtu.be/WtQ3pgL7cVg))
 ## Relay Control Via Push Button
 ### Components
 * 9v Battery
@@ -42,7 +42,7 @@ Demo Link
 ### Wiring Diagram
 ![image](https://github.com/IanPascoe/Relay/assets/95391563/ee5288a1-8acb-4749-9495-9d376c996c36)
 ### Demo
-Demo Link (Arduino Uno was used for 5v powersupply)
+[Demo Link]([url](https://youtu.be/6tHD5hG_p8E)) (Arduino Uno was used for 5v powersupply)
 
 
 
